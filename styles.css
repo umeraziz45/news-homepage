@@ -168,6 +168,10 @@ h2 {
     font-size: 1.2rem;
   }
 
+  .header-x {
+    display: none;
+  }
+
 }
 
 /* Main */
